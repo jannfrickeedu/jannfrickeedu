@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @jannfrickeedu
-- 👀 I’m interested in coding, snowboarding and volleyball
 - 🌱 I’m currently learning cpp
 - 😄 Pronouns: he/him
 
